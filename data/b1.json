@@ -1,0 +1,48 @@
+{
+"id" : "b1",
+"No" : "1",
+"Title" : "ஊன் சோறு - சங்ககால உணவு",
+"TitleImg" : "https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/1.jpg",
+"Introd":"ஐம்பெரும் காப்பிங்களில், சங்க கால உணவாக \"ஊன் சோறு \" என்ற பிரியாணி மாதிரியான சாத வகையினை போர் வீரர்களுக்கு உணவாக வழங்கபட்டதாக தெரிவிக்கின்றன…_br_ இதில் அரிசி, நெய், மஞ்சள் தூள், மிளகு , கொத்தமல்லி போன்ற சேர்க்கப்பட்டு இருக்கின்றது._br_ சங்க கால உணவில் அதிகம் சின்ன வெங்காயம், சீரகம், மிளகு போன்றவை சேர்க்கபடும் என்று தெரிவிக்கின்றது. இந்த பிரியாணியினை திருமதி. ப்ரியாவின் ப்ளாகினை பார்த்து செய்தேன். மிகவும் அருமையான வித்தியசமான பிரியாணி…",
+"IntroImg2":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/2.jpg",
+"CookTime" : "40 min",
+"ReuiredThings" :[{ "Title":"தேவையான பொருட்கள்","Things": ["சிக்கன் – 1/2 கிலோ" , " பாஸ்மதி அரிசி – 3 கப்"  , "தயிர்  -1/2 கப்", "இஞ்சி பூண்டு விழுது – 1 தே.கரண்டி" , "தேங்காய் பால் – 2 கப்" ]    
+ },
+ { "Title" : "முதலில் தாளிக்க", "Things" : ["எண்ணெய் – 2 மேஜை கரண்டி" ,"நெய் – 1 மேஜை கரண்டி" ,"கிராம்பு – 2, பட்டை -1 துண்டு, பிரியாணி இலை – 1, ஏலக்காய் – 2"]
+ 
+ },
+ {
+	"Title" : "சேர்க்க வேண்டிய தூள் வகைகள்","Things": ["மஞ்சள் தூள் – 1/2 தே.கரண்டி", "தனியா தூள் – 1 தே.கரண்டி","உப்பு – தேவையான அளவு"]
+ },
+ {
+	"Title" : "அரைத்து கொள்ள" ,"Things": ["சின்ன வெங்காயம் – 10 (சுமார் 50 -60 கிராம்)", "பச்சைமிளகாய் – 5 (காரத்திற்கு ஏற்றாற் போல)", "மிளகு – 1 தே.கரண்டி", "சீரகம் – 2 மேஜை கரண்டி", "பட்டை – 1 பெரிய துண்டு , கிராம்பு - 2", "ஏலக்காய் – 2", "கொத்தமல்லி, புதினா – 1 கைபிடி"]
+ }
+ 
+ ],
+
+"Content" : [{"Type":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/3.jpg"},{"Type":"title","Detail":"கவனிக்க"}
+,{"Type":"content","Detail":"நான் சின்ன வெங்காயத்திற்கு பதிலாக பெரிய வெங்காயம் பயன்படுத்தி இருக்கின்றேன். சின்ன வெங்காயத்தில் செய்தால் கூடுதல் சுவையுடன் இருக்கும்."}
+,{"Title":"title","Detail":"செய்முறை"}
+,{"Title":"content","Detail":"_li_ அரைக்க கொடுத்துள்ள பொருட்கள் அனைத்தும் மிக்ஸியில் போட்டு கொரகொரவென அரைத்து கொள்ளவும். சிக்கனை தயிர் சேர்த்து கலந்து 10 நிமிடங்கள் ஊறவைத்து கொள்ளவும். பாஸ்மதி அரிசியினை தண்ணீர் சுமர்ர் 10 நிமிடங்கள் ஊறவைத்து கொள்ளவும்."}
+,
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/4.jpg"}, {"Title":"content","Detail":"_li_ கடாயில் எண்ணெய் ஊற்றி தாளிக்க கொடுத்துள்ள பொருட்கள் சேர்த்து தாளித்து அத்துடன் இஞ்சி பூண்டு விழுது சேர்த்து வதக்கி கொள்ளவும்."}
+,{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/5.jpg"} , {"Title":"content","Detail":"_li_ இத்துடன் ஊறவைத்துள்ள சிக்கன் சேர்த்து கொள்ளவும்."}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/6.jpg"} , {"Title":"content","Detail": "_li_  பிறகு, மஞ்சள் தூள் + தனியா தூள் சேர்த்து கொள்ளவும்." }
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/7.jpg"} , {"Title":"content","Detail": "_li_  அனைத்து நன்றாக கலந்து கொள்ளவும். பாஸ்மதி அரிசியினை கழுவி அதனை இத்துடன் சேர்த்து  2 – 3 நிமிடங்கள் வதக்கவும்." }
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/8.jpg"} , {"Title":"content","Detail":" இத்துடன் தேங்காய் பால் சேர்த்து 1 – 2 நிமிடங்கள் கொதிக்கவிடவும் . "}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/9.jpg"} , 
+{"Title" :"content","Detail" : "_li_  அரைத்து வைத்துள்ள விழுதினை இத்துடன் சேர்த்து கொள்ளவும். சரியான அளவு உப்பு + தேவையான அளவு தண்ணீர் (சுமார் 4 கப் தண்ணீர் )சேர்த்து வேகவிடவும்."}
+,
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/10.jpg"},
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/11.jpg"},
+ {"Title" : "content" , "Detail" : "சுவையான பிரியாணி ரெடி. இதனை தயிர் பச்சடியுடன் சேர்த்து சாப்பிட சுவையாக இருக்கும்."}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/12.jpg"},
+ {"Title" : "title" , "Detail" : "குறிப்பு "}
+, {"Title" : "content","Detail" :"இதனை நான் அப்படியே தம் போட்டு வேகவிட்டேன். விரும்பினால் தம் போடுவதற்கு பதில், பிரஸர் குக்கரில் 1 விசில் வரும் வரை வேகவிடவும். _br_ வெரும் தண்ணீர் சேர்ப்பதற்கு பதிலாக Chicken Stock / vegetable Stock சேர்த்து கொள்ளலாம். _br_ தனியா தூள் சேர்ப்பதற்கு பதிலாக முழு தனியாவினை அரைக்க கொடுத்துள்ள பொருட்களுடன் சேர்த்து அரைத்து கொள்ளவும்." }
+,
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b1/13.jpg"}
+
+
+]
+
+}
