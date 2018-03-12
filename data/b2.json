@@ -1,0 +1,32 @@
+{
+"id" : "b2",
+"No" : "2",
+"Title" : "ஹைதராபாத் பகாறா கானா",
+"TitleImg" : "https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/1.jpg",
+"Introd":"Hyderabadயில் மிகவும் பிரபலமான உணவு இது. பிரியாணி சாப்பிடாதவங்க இந்த பகறாகானாவினை எதாவது க்ரேவியுடன் சேர்த்து சாப்பிடுவாங்க… _br_ மிகவும் சுவையான உணவு பகறாகானா மிகவும் Mildஆக இருப்பதால் குழந்தைகள் மிகவும் விரும்பி சாப்பிடுவாங்க. பெரியவர்கள் கண்டிப்பாக குழம்பு அல்லது குருமாவுடன் சாப்பிட சுவையாக இருக்கும். தேங்காய் பால் சேர்க்க வேண்டாம். தேங்காய் பால் சேர்த்தால் பிரிஞ்சி மாதிரி இருக்கும். விரும்பினால் தயிரின் அளவினை சிறிது அதிகம் சேர்த்து கொள்ளலாம். காரத்திற்கு பச்சைமிளகாய் மட்டும் தான் பயன்படுத்த வேண்டும், _br_ இந்த ரைஸ் கண்டிப்பாக் வெள்ளை கலரில் தான் இருக்க வேண்டும், இதில் தக்காளியினை முதலிலேயே சேர்த்தால் கலர் மாறிவிடும். அதனால் கடைசியில் சேர்க்க வேண்டும்.",
+"IntroImg2":"",
+"CookTime" : "25 – 30 min",
+"ReuiredThings" :[{ "Title":"தேவையான பொருட்கள்","Things": ["பாஸ்மதி அரிசி - 2 கப்", "இஞ்சி பூண்டு விழுது - 1 மேஜை கரண்டி", "வெங்காயம் - 1 பெரியது" , "தக்காளி - 1", "பச்சைமிளகாய் - 4", " புதினா, கொத்தமல்லி – 1 கைபிடி அளவு", "தயிர் – 1/4  கப்" ,"உப்பு – தேவையான அளவு"]    
+ },
+ { "Title" : "முதலில் தாளிக்க", "Things" : ["எண்ணெய் – 1 மேஜை கரண்டி","நெய் – 1 மேஜை கரண்டி","பட்டை – 1, கிராம்பு – 3, ஏலக்காய் - 2"]
+ 
+ } 
+ ],
+
+"Content" : [{"Type":"title","Detail":"செய்முறை"}
+,{"Type":"content","Detail":"_li_ பாஸ்மதி அரிசியினை தண்ணீரில் 10 நிமிடங்கள் ஊறவைத்து கொள்ளவும். வெங்காயத்தினை நீளமான வெட்டி கொள்ளவும். பச்சைமிளகாயினை இரண்டாக கீறி கொள்ளவும். புதினா,கொத்தமல்லியினை நறுக்கி வைக்கவும்.  _li_ குக்கரில் முதலில் தாளிக்க கொடுத்துள்ள பொருட்கள் சேர்த்து தாளித்த பிறகு அத்துடன் வெங்காயம் சேர்த்து 1 - 2 நிமிடங்கள் வதக்கவும்."}
+,
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/2.jpg"}, {"Title":"content","Detail":"_li_ வெங்காயம் வதங்கியவுடன் இஞ்சிபூண்டு விழுது சேர்த்து மேலும் 1 நிமிடம் வதக்கவும். _li_  அதன்பிறகு, புதினா + கொத்தமல்லி + பச்சைமிளகாய் சேர்த்து 1 – 2 நிமிடங்கள் வதக்கவும்."}
+,{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/3.jpg"} , {"Title":"content","Detail":"_li_ இத்துடன் தயிர் சேர்த்து கலந்து 1 நிமிடம் வதக்கவும்."}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/4.jpg"} , {"Title":"content","Detail": "_li_   ஊறவைத்துள்ள அரிசியினை கழுவி தண்ணீர் வடித்து, அரிசியினை மட்டும் வதக்கிய பொருட்களுடன் சேர்த்து  1 நிமிடம் வதக்கி கொள்ளவும்." }
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/5.jpg"} , {"Title":"content","Detail": "_li_  தேவையான அளவு தண்ணீர் + உப்பு சேர்த்து கொள்ளவும்." }
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/6.jpg"} , {"Title":"content","Detail":"  தக்காளியினை நான்கு துண்டுகளாக நறுக்கி இதில் சேர்க்கவும்.. "}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/7.jpg"} , 
+{"Title" :"content","Detail" : "_li_  குக்கரினை மூடி 1 விசில் வரும் வரை வேகவிடவும்."}
+,
+{"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/8.jpg"}, 
+ {"Title" : "content" , "Detail" : "சுவையான எளிதில் செய்ய கூடிய பகாறாகானா. இத்துடன் Spicyயான குழம்பு, குருமா, தயிர் பச்சடி , Boiled eggs போன்றவையுடன் சாப்பிட சுவையாக இருக்கும்."}
+, {"Title":"image","Detail":"https://raw.githubusercontent.com/thirumurthy/briyani/master/img/b2/9.jpg"}
+]
+
+}
